@@ -9,8 +9,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
+  - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
@@ -49,16 +48,9 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](https://medijdir.github.io/portfolio_project/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running, follow these steps. Clone this repo using this link: https://github.com/medijdir/portfolioM1_project/tree/new_branch
+To get a local copy up and running, follow these steps. Clone this repo using this link: https://github.com/medijdir/mobileportfolio/tree/mobilefirst
 
 ### Prerequisites
 
@@ -69,7 +61,7 @@ Install Git Bash, Web browser and code editor
 
 Clone this repository to your desired folder:
 cd my-folder
-git clone git@github.com:medijdir/portfolioM1_project.git
+git clone git@github.com:medijdir/mobileportfolio.git
 
 ### Install
 
@@ -141,6 +133,6 @@ I would like to thank @microverseinc for providing guidance on this project.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/medijdir/portfolioM1_project/blob/new_branch/LICENSE) licensed.
+This project is [MIT](https://github.com/medijdir/mobileportfolio/blob/mobilefirst/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
