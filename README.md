@@ -101,7 +101,9 @@ Live Preview on Visual Studio Code
 >About Me section
 >Contact section
 
-## 🤝 Contributing <a name="contributing"></a>
+## 🤝 Contributor <a name="contributing"></a>
+
+   **AFIMIA FIDELIS**
 
 Contributions, issues, and feature requests are welcome!
 
